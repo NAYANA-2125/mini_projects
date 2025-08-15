@@ -49,10 +49,13 @@ If already used, appropriate messages like *"No lifelines available"* are shown.
 3. Right-click `MiniProject1.java` → **Run As → Java Application**
 
 ### **Option 2 – Using Command Line**
+
 javac MiniProject1.java
+
 java MiniProject1
 
 📋 **Sample Console Output**
+
 Enter your name: Nayana
 Enter your city: Bengaluru
 Enter your age: 21
